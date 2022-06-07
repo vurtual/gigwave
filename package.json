@@ -1,0 +1,35 @@
+{
+  "name": "gigwave",
+  "version": "1.0.0",
+  "description": "review and recommendation site for local music scenes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vurtual/gigwave.git"
+  },
+  "keywords": [
+    "independent",
+    "local",
+    "music",
+    "bands",
+    "gigs",
+    "venues",
+    "promoters"
+  ],
+  "author": "Andrew Sharpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vurtual/gigwave/issues"
+  },
+  "homepage": "https://github.com/vurtual/gigwave#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "firebase": "^9.8.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
